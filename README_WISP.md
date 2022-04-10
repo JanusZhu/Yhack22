@@ -1,4 +1,5 @@
 Project Proposal
+## Introduction
 A travel app that suggests locations/activities based on uniqueness, affordability, and interests, not popularity. User crowdsourced. For the new generation.
 Design:https://www.figma.com/file/tS703V5tb7pMyC08eS9Znk/Untitled?node-id=0%3A1
 
